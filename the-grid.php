@@ -1,17 +1,17 @@
 <?php
 /**
  * @package   The_Grid
- * @author    Themeone <themeone.master@gmail.com>
- * @link      https://codecanyon.net/item/the-grid-responsive-wordpress-grid-plugin/13306812
- * @copyright 2015 Themeone
+ * @author    Jibin Jose <jibinisonline@gmail.com>
+ * @link      https://github.com/jibinjosedev/The-WP-Grid.git
+ * @copyright 2025 Jibin Jose
  *
  * @wordpress-plugin
- * Plugin Name:  The Grid
- * Plugin URI:   http://www.theme-one.com/the-grid/
- * Description:  The Grid - Create advanced grids for any post type with endless possibilities (no programming knowledge required)
- * Version:      2.7.7
- * Author:       Themeone
- * Author URI:   http://www.theme-one.com/
+ * Plugin Name:  The WP Grid
+ * Plugin URI:   https://github.com/jibinjosedev/The-WP-Grid.git
+ * Description:  The Grid - Create advanced grids for any post type with endless possibilities (no programming knowledge required) Remastered from Theme-one https://theme-one.com/the-grid/
+ * Version:      3.0.0.0
+ * Author:       Jibin Jose
+ * Author URI:   https://github.com/jibinjosedev/The-WP-Grid.git
  * Text Domain:  tg-text-domain
  * Domain Path:  /langs
  */
